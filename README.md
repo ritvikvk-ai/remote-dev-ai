@@ -87,7 +87,6 @@ Remote‑Dev‑AI is an AI‑driven GitHub bot that turns issue requests into pu
 ---
 
 ## Known gaps / next steps
-- Wire PR creation (currently implied but not implemented in this repo).
 - Harden auth between Lambda and MCP client (shared secret/IP allowlist).
 - Add retries/backoff for MCP calls and Claude generations.
 - Add unit/integration tests for the Lambda payload contract and MCP client HTTP handler.
