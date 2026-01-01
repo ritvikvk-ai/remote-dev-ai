@@ -1,7 +1,7 @@
 # remote-dev-ai
 
 ## Description
-Remote‑Dev‑AI is an AI‑driven GitHub bot that turns issue requests into pull requests. A GitHub App plus an MCP client/back end listen to repo events, gather context, ask Anthropic Claude to write code, and open a PR with the changes—reducing the time and cost of routine engineering work.
+Remote‑Dev‑AI is an AI‑driven GitHub bot that turns issue requests into pull requests. A GitHub App plus an MCP client/back end listen to repo events, gather context, ask Anthropic Claude to write code, and open a PR with the changes in reducing the time and cost of routine engineering work.
 
 ---
 
